@@ -1,0 +1,14 @@
+{
+    "cloud_server": {
+        "ip":"localhost",
+        "port": 8050
+    },
+    "dicom_server": {
+        "ip":"localhost",
+        "port": 5000
+    },
+	"rest_server": {
+		"ip":"localhost",
+		"port":6000
+	}
+}
