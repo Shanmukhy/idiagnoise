@@ -1,0 +1,22 @@
+{
+    "reporting_server": {
+        "ip":"localhost",
+        "port": 5010
+    },
+    "dicom_server": {
+        "ip":"localhost",
+        "port": 5000
+    },
+    "dicomweb_server": {
+        "ip":"localhost",
+        "port": 5001
+    },
+    "cloud_server": {
+        "ip":"localhost",
+        "port": 8050
+    },
+    "infer_server": {
+        "ip":"localhost",
+        "port": 7000
+    }
+}
