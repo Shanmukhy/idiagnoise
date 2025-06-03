@@ -1,0 +1,29 @@
+{
+    "model_blob": {
+        "account_name": "idiagnoseframeworkdev",
+        "account_key": "qadJyMkmlddPHUrIQF7pStHhSIOjULCiWbCETd2Y15Kthu5ws0CuGMSwMkWo6mEYs/HyvNEIMylh+AStRkk5Mg==",
+        "container_name": "idiagnose-model-container",
+        "blob_service_endpoint": "https://idiagnoseframeworkdev.blob.core.windows.net/"
+    },
+
+    "training_data_blob": {
+        "account_name": "idiagnoseframeworkdev",
+        "account_key": "qadJyMkmlddPHUrIQF7pStHhSIOjULCiWbCETd2Y15Kthu5ws0CuGMSwMkWo6mEYs/HyvNEIMylh+AStRkk5Mg==",
+        "container_name": "idiagnose-train-dataset-container",
+        "blob_service_endpoint": "https://idiagnoseframeworkdev.blob.core.windows.net/"
+    },
+
+    "report_blob": {
+        "account_name": "idiagnoseframeworkdev",
+        "account_key": "qadJyMkmlddPHUrIQF7pStHhSIOjULCiWbCETd2Y15Kthu5ws0CuGMSwMkWo6mEYs/HyvNEIMylh+AStRkk5Mg==",
+        "container_name": "idiagnose-report-container",
+        "blob_service_endpoint": "https://idiagnoseframeworkdev.blob.core.windows.net/"
+    },
+
+    "mongo_server": {
+        "mongo_uri": "mongodb://localhost:27017/",
+        "database_name": "local"
+    }
+
+    
+}

@@ -1,0 +1,5 @@
+tensorflow
+Flask
+requests
+azure-storage-blob
+pymongo
