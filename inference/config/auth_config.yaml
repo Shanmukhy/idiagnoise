@@ -1,0 +1,5 @@
+# JWT Token Configuration
+development:
+  jwt_secret_key: "bf70ae68364a88126441d0ff72b06cba"
+  ssl_enabled: false
+  access_token: "Your_access_token"

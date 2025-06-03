@@ -1,0 +1,6 @@
+{
+    "cloud_server": {
+        "ip":"localhost",
+        "port": 8050
+    }
+}
